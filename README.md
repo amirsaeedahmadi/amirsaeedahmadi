@@ -16,7 +16,4 @@
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=amirsaeedahmadi&theme=merko" height="150"/>
   
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirsaeedahmadi&theme=github-compact&color=2ecc71&line=27ae60&point=1abc9c" height="250"/>
-
 </div>
