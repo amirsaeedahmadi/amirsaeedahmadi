@@ -17,8 +17,10 @@
 <div align="center">
 
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats-8gmz6sv1y-amirs-projects-10360d7f.vercel.app?user=amirsaeedahmadi&theme=merko&cacheBust=1" height="150"/>
-
+  <img
+    src="https://github-readme-streak-stats-8gmz6sv1y-amirs-projects-10360d7f.vercel.app?user=amirsaeedahmadi&theme=merko&cacheBust=2"
+    height="150"
+  />
 
 
   
